@@ -1,0 +1,68 @@
+# Simulation artifacts
+*.vvp
+*.wdb
+*.wt
+*.shm
+*.wdb
+*.dump
+*.vpd
+
+# EDA tool directories
+work/
+transcript
+*.log
+*.history
+*.ini
+
+# ModelSim/Questa
+vsim.wlf
+wlfbrowse.wlf
+*.mti
+*.pli
+
+# Vivado artifacts
+*.xpr
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.devices/
+*.jou
+
+# EDA Playground
+*.out
+*.eda
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# General build outputs
+obj/
+*.o
+*.a
+*.so
+*.lib
+*.dll
+*.exe
+
+# Backup files
+*.bak
+*.backup
+*.orig
